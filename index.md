@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 写在2021年9月
 
-You can use the [editor on GitHub](https://github.com/junzhou1999/myOwnBlog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/junzhou1999/myOwnBlog.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 用Github给自己写个博客吧，这个博客啥都没有。最近在战软考中级信息安全工程师，还有不到40天的时间，说实话，我是很想过的。但分析着有一些问题情况吧，感觉写出来了脑子就清晰点。
+* ### 试题方面
+  去年信安官方就说要用新版教材大纲进行命题的，根据网上查到的信息明显跳水了。然后今年肯定肯定是用新版教材提纲进行考试的了！
+  相比旧版的大纲，新版增加了比较多的章节，考的方面应该更广。现在主要就是后边的主观题拿捏不准。本身就没有在这方面深入过。对很多概念都比较生疏，原理的还需要花时间的啃下。
+* ### 信心/学习主动性
+  要做好跟主课学习的时间分配工作，接下来就不要偷懒了。能少玩点就少玩点，同时也要抓好主课。尤其这学期数据结构跟算法，还是比较重要的！！
+---
+* ## 写在最后：(不想写了)还是要多了解原理，了解好概念性的东西，该背的要背。不要深入追究某一知识点，浪费时间精力。
+* ## 还有还有，后边还有12月的六级考试，过完国庆的科目二。等考完信安后，我想多了解Java基础语法还有安卓Rom开发的，主要是给老设备给折腾原生编译的（看时间精力吧）。但还有最不能忽略的就是学业的学习，不能再落了，今年好好补上吧！！
+##  &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;写在2021.9.28凌晨
+##  &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;东莞，麻涌
